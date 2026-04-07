@@ -5,6 +5,12 @@ This project simulates real-world **Security Operations Center (SOC)** activitie
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in March 2026.
+
+---
+
 ## 🎯 Objective
 - To understand SOC workflows and operations  
 - To detect security incidents using SIEM concepts  
